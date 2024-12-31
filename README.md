@@ -27,3 +27,4 @@ npm install @supabase/supabase-js
 npm install @rneui/themed @react-native-async-storage/async-storage
 npm install aes-js react-native-get-random-values
 npx expo install expo-secure-store
+npm install --save-dev @types/aes-js
