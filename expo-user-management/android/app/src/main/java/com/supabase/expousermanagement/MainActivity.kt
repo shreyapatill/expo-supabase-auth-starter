@@ -1,4 +1,4 @@
-package com.shreyap2917.expousermanagement
+package com.supabase.expousermanagement
 
 import android.os.Build
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package com.shreyap2917.expousermanagement
+package com.supabase.expousermanagement
 
 import android.app.Application
 import android.content.res.Configuration
